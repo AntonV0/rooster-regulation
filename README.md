@@ -8,6 +8,5 @@ The aim of this project is to develop tests for a JavaScript "rooster" module us
   - Separating tests into setup, exercise, verification, and teardown phases
   - "describe" and "it" block syntax
   - Node.js assert() methods including assert.equal(), assert.strictEqual(), assert.throws()
-  - 
 ***
 *Please note that in each project, the first commit is always the starter code provided by Codecademy.*
