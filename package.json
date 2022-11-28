@@ -1,0 +1,11 @@
+{
+  "name": "learn-mocha-intro-start",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*_test.js"
+  },
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  }
+}
